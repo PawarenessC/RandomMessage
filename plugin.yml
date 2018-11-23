@@ -1,0 +1,10 @@
+name: RandomMessage
+main: RandomMessage\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+authors: [PawarenessC,famima65536]
+description: ランダムにメッセージを送れます。 
+commands:
+ rm:
+  description: "ランダムメッセージ"
